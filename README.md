@@ -3,15 +3,31 @@
 
 
 
-# Backend / Fullstack Разработчик
+# Junior Python Backend Developer
 
-Проектирую надежную серверную логику, создаю асинхронные сервисы и собираю Fullstack-приложения с нуля. Ценю чистый код, командную работу
+Разрабатываю backend-сервисы на Python, работаю с FastAPI и Flask, асинхронным программированием, REST API, базами данных и внешними API. Имею практический опыт разработки Telegram-ботов на Aiogram и контейнеризации приложений с помощью Docker
+
+В проектах проектирую бизнес-логику, структуру приложения и взаимодействие между API, сервисным слоем и базой данных. Отдельное внимание уделяю производительности, обработке ошибок и поддерживаемости кода
+
+### Core Backend:
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=plastic&logo=sqlalchemy&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
+
+### Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+
+### Tools:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white)
+
 #
 
-
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-#
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fenxozepxm2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
