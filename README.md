@@ -3,7 +3,7 @@
 
 
 
-# Junior Python Backend Developer
+# Python Backend Developer
 
 Разрабатываю backend-сервисы на Python, работаю с FastAPI и Flask, асинхронным программированием, REST API, базами данных и внешними API. Имею практический опыт разработки Telegram-ботов на Aiogram и контейнеризации приложений с помощью Docker
 
